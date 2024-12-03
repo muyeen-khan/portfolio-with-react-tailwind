@@ -1,0 +1,7 @@
+ctrl + I = generates inline code 
+Use Ctrl+Shift+A to toggle between the editor and Codeium chat
+Use Alt+C to start a new chat
+Use Tab to accept a completion while editing code
+Use Alt+] to show the next completion while editing code
+Use Alt+] to show the next completion while editing code
+Use Alt+] to show the next completion while editing code
