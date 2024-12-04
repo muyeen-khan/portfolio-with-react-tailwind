@@ -1,4 +1,5 @@
 import About from "./components/About.jsx";
+import Experience from "./components/Experience.jsx";
 import Hero from "./components/Hero.jsx";
 import Navbar from "./components/Navbar.jsx";
 import Technologies from "./components/Technologies.jsx";
@@ -15,6 +16,7 @@ function App() {
         <Hero />
         <About />
         <Technologies />
+        <Experience />
       </div>
     </div>
   );
